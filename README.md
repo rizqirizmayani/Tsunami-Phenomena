@@ -15,6 +15,7 @@ Natural disasters are frequent occurrences. Natural disasters occur due to clima
 - What Magnitude and depth did the tsunami occur?
 - Is there a difference in the magnitude values that occurred in 1970-2010 with the last 10 years?
 
-### Referensi:
+#### Referensi:
 Baum, A., Fleming, R. dan Davidson, L. M. 1983. Natural Disaster and Technological Catastrophe. Environment and Behavior Journal.
+
 Bryant, E. 2014. Tsunami: The Underrated Hazard. Praxis Publishing : Chichester, UK
